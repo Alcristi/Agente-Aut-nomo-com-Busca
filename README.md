@@ -5,9 +5,10 @@ Este projeto foi desenvolvido inteiramente com **p5.js** e pode ser executado di
 **Link para a Simulação:**
 [**https://editor.p5js.org/acsn3/sketches/e1XTDflU\_**](https://editor.p5js.org/acsn3/sketches/e1XTDflU_)
 
-## 🕹️ Como Usar
+## 🕹️ Como Usar executar local
 
-1.  **Abre o ficheiro `public/index.html`** no teu browser.
+1.   Baixa a extensão do live server
+1.  **Abre o diretorio `public/index.html`** seleciona esse arquivo e executa com live server
 2.  Um mapa aleatório será gerado.
 3.  **Escolhe o algoritmo de busca** que desejas executar através das seguintes teclas:
     - **B**: Busca em Largura (BFS)
