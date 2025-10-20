@@ -2,8 +2,20 @@
 
 Este projeto foi desenvolvido inteiramente com **p5.js** e pode ser executado diretamente no teu navegador, sem necessidade de qualquer instalação.
 
-**Link para a Simulação:**
+## 🕹️ Como Usar P5
+
+1Acesse o link **Link para a Simulação:** :
 [**https://editor.p5js.org/acsn3/sketches/e1XTDflU\_**](https://editor.p5js.org/acsn3/sketches/e1XTDflU_)
+2.  Inicie a execução, um mapa aleatório será gerado.
+3.  **Escolhe o algoritmo de busca** que desejas executar através das seguintes teclas:
+    - **B**: Busca em Largura (BFS)
+    - **D**: Busca em Profundidade (DFS)
+    - **U**: Busca de Custo Uniforme (UCS)
+    - **G**: Busca Gulosa (Greedy Best-First)
+    - **A**: A\* (A-Star)
+4.  Observa o agente a encontrar e a seguir o caminho para a comida.
+5.  Assim que a comida é coletada, uma nova comida aparece noutra posição aleatória e uma nova busca é iniciada.
+6.  Para gerar um **novo mapa**, basta pressionar a tecla **R**.
 
 ## 🕹️ Como Usar executar local
 
