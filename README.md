@@ -4,7 +4,7 @@ Este projeto foi desenvolvido inteiramente com **p5.js** e pode ser executado di
 
 ## 🕹️ Como Usar P5
 
-1Acesse o link **Link para a Simulação:** :
+1. Acesse o link **Link para a Simulação:** :
 [**https://editor.p5js.org/acsn3/sketches/e1XTDflU\_**](https://editor.p5js.org/acsn3/sketches/e1XTDflU_)
 2.  Inicie a execução, um mapa aleatório será gerado.
 3.  **Escolhe o algoritmo de busca** que desejas executar através das seguintes teclas:
